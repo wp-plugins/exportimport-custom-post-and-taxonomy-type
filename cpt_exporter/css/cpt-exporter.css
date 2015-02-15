@@ -1,0 +1,10 @@
+.file-list table{width: 100%;}
+.head td{font-weight: bold;}
+.upload-form {
+    margin: 22px 0;
+    padding: 7px 1px;
+}
+
+.green{font-weight: bold;color: green;}
+.red{font-weight: bold;color: red;}
+.upload-form p{font-size: 15px; font-weight: bold;}
